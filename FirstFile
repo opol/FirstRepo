@@ -1,0 +1,10 @@
+[tom@CentOS]$ mkdir github_repo
+
+[tom@CentOS]$ cd github_repo/
+
+[tom@CentOS]$ vi hello.c
+
+[tom@CentOS]$ make hello
+cc hello.c -o hello
+
+[tom@CentOS]$ ./hello
