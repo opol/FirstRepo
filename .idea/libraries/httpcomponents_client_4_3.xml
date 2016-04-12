@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="httpcomponents-client-4.3">
+    <ANNOTATIONS>
+      <root url="file://$PROJECT_DIR$/../jars-for-lesson-practice/jars-for-lesson-practice/http-libraries/httpcomponents-client-4.3.5-bin/httpcomponents-client-4.3.5-bin" />
+      <root url="file://$PROJECT_DIR$/../jars-for-lesson-practice/jars-for-lesson-practice/http-libraries/httpcomponents-client-4.3.5-bin/httpcomponents-client-4.3.5-bin/httpcomponents-client-4.3.5/sun" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../jars-for-lesson-practice/jars-for-lesson-practice/http-libraries/httpcomponents-client-4.3.5-bin/httpcomponents-client-4.3.5-bin/httpcomponents-client-4.3.5/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../jars-for-lesson-practice/jars-for-lesson-practice/http-libraries/httpcomponents-client-4.3.5-bin/httpcomponents-client-4.3.5-bin/httpcomponents-client-4.3.5/examples" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../jars-for-lesson-practice/jars-for-lesson-practice/http-libraries/httpcomponents-client-4.3.5-bin/httpcomponents-client-4.3.5-bin/httpcomponents-client-4.3.5/lib" recursive="false" />
+  </library>
+</component>
